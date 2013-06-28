@@ -26,9 +26,13 @@
 
         <entry>
             <title>Test igen</title>
-            <link href="http://svtplay.se"/>
+            <link href="http://svtplay.se" />
             <summary>Titta på teve...</summary>
                 <id>urn:uuid:1225c695-cfb8-4eeb-aa0a-80dab44efa6a</id>
+                                <author>
+                      <name>John Doe</name>
+                      <email>johndoe@example.com</email>
+                </author>
         </entry>
  
 </feed>
