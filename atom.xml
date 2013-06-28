@@ -3,9 +3,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
         <title>Anders testar Atom</title>
-        <subtitle>A subtitle.</subtitle>
-        <link href="http://example.org/feed/" rel="self" />
-        <link href="http://example.org/" />
+        <subtitle>A subtitle. Nån som bryr sig?</subtitle>
+        <link href="http://anderseriksson.github.io/atom.xml" rel="self" />
+        <link href="http://anderseriksson.github.io" />
         <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
         <updated>2013-06-13T18:30:02Z</updated>
  
@@ -22,6 +22,13 @@
                       <name>John Doe</name>
                       <email>johndoe@example.com</email>
                 </author>
+        </entry>
+
+        <entry>
+            <title>Test igen</title>
+            <link href="http://svtplay.se"/>
+            <summary>Titta på teve...</summary>
+
         </entry>
  
 </feed>
